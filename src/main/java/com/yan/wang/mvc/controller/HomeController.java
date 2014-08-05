@@ -1,4 +1,4 @@
-package com.yan.wang;
+package com.yan.wang.mvc.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
